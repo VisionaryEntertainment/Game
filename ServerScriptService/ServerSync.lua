@@ -1,10 +1,4 @@
 
---------------------------------------
----------Made by MasterRPG123---------
---------------------------------------
-
-
-
 local syncthing = "/sync ([%w_]+)"
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
